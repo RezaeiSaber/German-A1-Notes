@@ -2,6 +2,8 @@
 
 study notes for German language learners at the A1 (beginner) level, based on the textbook **"Starten Wir A1"** and the excellent YouTube teaching series by **Hamed Salehi**.
 
+> **⚠️ IMPORTANT:** These are personal study notes, NOT the official textbook. Please purchase the official **"Starten Wir A1"** textbook for complete learning materials. These notes serve only as supplementary materials for students already using the textbook and following the course.
+
 ---
 
 ## 📖 About This Repository
@@ -63,8 +65,19 @@ Notes compiled and formatted by **Saber Rezaei** ([GitHub](https://github.com/Re
 
 ## ⚖️ Legal & Copyright Notice
 
-### Permission
-These educational notes have been created and shared with the **explicit permission** of instructor Hamed Salehi for educational purposes.
+### 📢 Important Copyright Disclaimer
+
+**These notes do NOT reproduce or distribute the "Starten Wir A1" textbook.**
+
+- ✅ These are **personal study notes** based on publicly available YouTube lessons
+- ✅ Notes contain **original summaries, interpretations, and reorganized content**
+- ✅ No pages, exercises, or proprietary materials from the textbook are included
+- ⚠️ **This is NOT a replacement for the official textbook**
+- ⚠️ Users should **purchase the official "Starten Wir A1" textbook** for complete learning materials
+
+The "Starten Wir A1" textbook is copyrighted material owned by its publisher. This repository respects all intellectual property rights and serves only as a supplementary study aid for students who are using the official textbook and following the course.
+
+
 
 ### Fair Use & Educational Purpose
 - These notes are intended solely for **educational and non-commercial use**
