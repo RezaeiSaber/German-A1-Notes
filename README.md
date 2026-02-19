@@ -24,19 +24,19 @@ Each lesson file includes:
 
 | Lesson | Topic | Description |
 |--------|-------|-------------|
-| **Lektion 00** | Alphabet & Pronunciation | German alphabet, umlauts (ä, ö, ü), eszett (ß), diphthongs, and pronunciation rules |
-| **Lektion 01** | Spelling & Global Words | How to spell names, ask for clarification, common international vocabulary |
-| **Lektion 02** | Numbers & Personal Info | Numbers, age, phone numbers, addresses, and personal information |
-| **Lektion 03** | Food & Drink | Eating and drinking vocabulary, separable verbs, plural forms |
-| **Lektion 04** | Family & Relationships | Family members, possessive pronouns, describing relationships |
-| **Lektion 05** | Daily Routine | Daily activities, time expressions, separable verbs |
-| **Lektion 06** | My City | City infrastructure, location prepositions, describing places |
-| **Lektion 07** | Free Time & Hobbies | Leisure activities, hobbies, sport vocabulary |
-| **Lektion 08** | Shopping | Clothing, colors, shopping expressions, modal verbs |
-| **Lektion 09** | Past & Future | Past tense (Perfekt), future plans, time expressions |
-| **Lektion 10** | Travel & Transport | Means of transport, directions, travel vocabulary |
-| **Lektion 11** | Health & Body | Body parts, health issues, medical vocabulary |
-| **Lektion 12** | Professions & Work | Job titles, workplace activities, professional status |
+| **[Lektion 00](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion00.md)** | Alphabet & Pronunciation | German alphabet, umlauts (ä, ö, ü), eszett (ß), diphthongs, and pronunciation rules |
+| **[Lektion 01](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion01.md)** | Spelling & Global Words | How to spell names, ask for clarification, common international vocabulary |
+| **[Lektion 02](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion02.md)** | Numbers & Personal Info | Numbers, age, phone numbers, addresses, and personal information |
+| **[Lektion 03](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion03.md)** | Food & Drink | Eating and drinking vocabulary, separable verbs, plural forms |
+| **[Lektion 04](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion04.md)** | Family & Relationships | Family members, possessive pronouns, describing relationships |
+| **[Lektion 05](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion05.md)** | Daily Routine | Daily activities, time expressions, separable verbs |
+| **[Lektion 06](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion06.md)** | My City | City infrastructure, location prepositions, describing places |
+| **[Lektion 07](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion07.md)** | Free Time & Hobbies | Leisure activities, hobbies, sport vocabulary |
+| **[Lektion 08](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion08.md)** | Shopping | Clothing, colors, shopping expressions, modal verbs |
+| **[Lektion 09](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion09.md)** | Past & Future | Past tense (Perfekt), future plans, time expressions |
+| **[Lektion 10](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion10.md)** | Travel & Transport | Means of transport, directions, travel vocabulary |
+| **[Lektion 11](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion11.md)** | Health & Body | Body parts, health issues, medical vocabulary |
+| **[Lektion 12](https://github.com/RezaeiSaber/German-A1-Notes/blob/main/Lektion12.md)** | Professions & Work | Job titles, workplace activities, professional status |
 
 ---
 
